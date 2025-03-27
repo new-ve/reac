@@ -11,5 +11,20 @@ react는 자바스크립트 UI 내 라이브러리 표방, 2013-5-29공개
 ## 03/27
 react는 component로 생성
 component는 고유한 로직과 모양을 가진 UI의 일부
-버튼처럼 작을 수도, 전체 페이지처럼 클 수도
+버튼처럼 작을 수도, 전체 페이지처럼 클 수도 있음
 마크업을 반환하는 JavaScript 함수
+
+Component의 생성 및 nesting(중첩)
+export default 키워드는 파일 내의 component중 기본 component를 지정
+이 키워드의 사용도 JavaScript 문법
+좀더 구체적으로 알고 싶다면 사이트의 MDN 혹은 javascript.info 링크 확인
+
+export default와 export의 차이
+
+Named Exports
+하나의 파일 안 여러 개의 component가 존재할 때 사용
+component를 사용하는 쪽에선 정확한 이름 명시 필수
+
+Default Exports
+하나의 파일 안에서 하나의 component만 내보내는 경우
+사용하는 쪽에서 어떤 이름을 사용하든 상관없음

@@ -28,3 +28,7 @@ component를 사용하는 쪽에선 정확한 이름 명시 필수
 Default Exports
 하나의 파일 안에서 하나의 component만 내보내는 경우
 사용하는 쪽에서 어떤 이름을 사용하든 상관없음
+
+## 04/03
+component 내부 ebent handler 함수 선언하면 event 응답
+

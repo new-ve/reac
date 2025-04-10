@@ -32,3 +32,7 @@ Default Exports
 ## 04/03
 component 내부 ebent handler 함수 선언하면 event 응답
 
+## 04/10
+props를 통해 데이터 전달
+com
+

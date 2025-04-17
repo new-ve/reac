@@ -36,3 +36,6 @@ component 내부 ebent handler 함수 선언하면 event 응답
 props를 통해 데이터 전달
 com
 
+## 04/17
+내가 어느 시점으로 갈 수 있는지
+

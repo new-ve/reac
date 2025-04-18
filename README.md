@@ -42,3 +42,9 @@ com
 squares 배열 직접 update 시 시간 여행 구현 난이도 매우 높음
 하지만 slice() 사용
 
+## 04/18(보강)
+한 번 더 state 끌어올리기
+먼저 export script가 있는
+6.다음 플레이어와 플레이 기록을 추적하기 위해 game 컴포넌트에 몇 개의 state 추가
+7.현재 플레이에 대한 square를 렌더링하려면 history에서 마지막 squares의 배열 읽어야 한다.
+8.렌더링 중에 계산할 수 있는 충분한 정보가 이미 있으므로 useState불필요
